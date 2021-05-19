@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-comments= ["erjinrih" , "unv" , "wuneufn" , "rirfn"]
+comments= ["some" , "random" , "repeating" , "texts"]
 
 time.sleep(5)
 
